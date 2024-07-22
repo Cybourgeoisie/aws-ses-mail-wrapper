@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "AWS SES mail module for convenient AWS mail server interaction",
   "type": "module",
-  "main": "build/index.js",
+  "main": "build/index.mjs",
+  "types": "build/index.d.mts",
   "scripts": {
     "build": "tsc",
     "test": "mocha"

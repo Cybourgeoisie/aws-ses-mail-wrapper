@@ -71,7 +71,7 @@ describe("Send Test Mail", function () {
             const template_variables = {
                 EMAIL_TITLE: "Email Title",
                 EMAIL_CONTENT: "Email content here",
-                SITE_URL: "https://blockade.games"
+                SITE_URL: "http://localhost"
             };
             const recipient = TEST_RECIPIENT;
             const sender = TEST_SENDER;
