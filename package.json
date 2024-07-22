@@ -1,0 +1,28 @@
+{
+  "name": "aws-ses-mail-wrapper",
+  "version": "1.0.1",
+  "description": "AWS SES mail module for convenient AWS mail server interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Cybourgeoisie; Blockade Games, Inc",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.460.0",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "loglevel": "^1.6.1"
+  },
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/email-validator": "^1.0.6",
+    "@types/loglevel": "^1.6.3",
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^20.14.11",
+    "mocha": "^6.2.3",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.3",
+    "typescript": "^5.5.3"
+  }
+}

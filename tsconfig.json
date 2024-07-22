@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"target": "es2022",
+		"module": "node16",
+		"composite": true,
+		"declarationMap": true,
+		"esModuleInterop": true,
+		"lib": ["ES2022", "DOM"],
+		"moduleResolution": "node16",
+		"rootDir": ".",
+		"outDir": "build",
+		"allowSyntheticDefaultImports": true,
+		"importHelpers": true,
+		"alwaysStrict": true,
+		"sourceMap": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitAny": false,
+		"noImplicitThis": false,
+		"strictNullChecks": false,
+		"skipLibCheck": true,
+		"baseUrl": ".",
+	}
+}
