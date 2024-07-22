@@ -2,8 +2,10 @@
   "name": "aws-ses-mail-wrapper",
   "version": "1.0.1",
   "description": "AWS SES mail module for convenient AWS mail server interaction",
-  "main": "index.js",
+  "type": "module",
+  "main": "build/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "mocha"
   },
   "author": "Cybourgeoisie; Blockade Games, Inc",

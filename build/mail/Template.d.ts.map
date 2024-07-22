@@ -1,0 +1,1 @@
+{"version":3,"file":"Template.d.ts","sourceRoot":"","sources":["../../mail/Template.ts"],"names":[],"mappings":"AAGA,qBAAa,QAAQ;IACjB,OAAO,CAAC,OAAO,CAAS;IACxB,OAAO,CAAC,SAAS,CAAW;gBAEhB,IAAI,EAAE,MAAM;IASxB,OAAO,CAAC,gBAAgB;IAcxB,OAAO,CAAC,QAAQ;IAShB,oBAAoB,CAAC,SAAS,EAAE;QAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;KAAE,GAAG,MAAM;CAerE"}

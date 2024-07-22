@@ -11,7 +11,7 @@ npm install https://github.com/Cybourgeoisie/aws-ses-mail-wrapper.git
 And wherever in the code you need to use it:
 
 ```
-import * as path from 'path';
+import path from 'path';
 import AwsSesMailer from 'aws-ses-mail-node-module';
 
 interface TemplateVariables {
